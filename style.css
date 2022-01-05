@@ -22,3 +22,33 @@
     padding: 10px 40px;
     border-radius: 2px;
 }
+#mymission{
+    text-align: center;
+}
+.mission{
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    border: 0px solid;
+    margin-left: 10px;
+    border-radius: 5%;
+    padding: 10px 40px;
+}
+.vission{
+    background-color: coral;
+    height: 400px;
+    width: 400px;
+    border: 0px solid;
+    margin-left: 10px;
+    border-radius: 5%;
+    padding: 10px 40px;
+}
+.goal{
+    background-color: darkorange;
+    height: 400px;
+    width: 400px;
+    border: 0px solid;
+    margin-left: 10px;
+    border-radius: 5%;
+    padding: 10px 40px;
+}
